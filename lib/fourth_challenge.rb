@@ -20,7 +20,4 @@ def fourth_challenge
    }
 }
 
-Bonus: Manipulating the Hash
-
-
 end
